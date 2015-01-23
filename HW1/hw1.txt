@@ -1,0 +1,16 @@
+PROBLEM 1
+Part a: 1, 3, 5
+
+Part b: 2, 3, 4, 5, 7
+
+Part c: 3
+
+Part d: 4
+
+PROBLEM 2
+Part a: 3
+
+Part b: 1) git add hw1q2b.cpp
+		2) git log
+
+Part c: 
